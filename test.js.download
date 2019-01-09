@@ -1,0 +1,11 @@
+
+function AddNumbers(firstNumber, secondNumber){
+	let sum = firstNumber + secondNumber;
+	return sum;
+}
+
+let mySum = AddNumbers(4,5);
+console.log(mySum);
+
+let yourSum = AddNumbers(6,7);
+console.log(yourSum);
